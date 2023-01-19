@@ -1,11 +1,11 @@
 # SingleCellExampleData
 
-This repo is used to store a few public Single Cell example data sets as Cellranger style `.h5` files.
+This repo is used to store a few public Single Cell example data sets as [Cell Ranger](https://support.10xgenomics.com/single-cell-gene-expression/software/overview/welcome) (10x genomics) style `.h5` files.
 
 **Please give credit to the original authors if you use these files.**
 
 ## PBMC (GSE164378)
-This PBMC (peripheral blood mononuclear cells) data set was downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 and recompressed as Cellranger style `.h5` files.
+This PBMC (peripheral blood mononuclear cells) data set was downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164378 and recompressed as Cell Ranger style `.h5` files.
 Also see the original paper [Integrated analysis of multimodal single-cell data](https://www.sciencedirect.com/science/article/pii/S0092867421005833) by Hao et al.
 
 Files: 
